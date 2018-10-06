@@ -36,7 +36,7 @@ class SmartCalculator {
   }
   
   toString() {
-	return eval(this.arr.join(''));
+    return eval(this.arr.join(''));
   }
 }
 
